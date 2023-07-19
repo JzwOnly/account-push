@@ -13,17 +13,17 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f9863bd8e309dee47d7494cf8bca611b',
 
-  PROVINCE: '江西',
-  CITY: '上饶',
+  PROVINCE: '江西省',
+  CITY: '上饶市',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '文琪宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'okB8l6WuEdxK7yCmOOlQjMSibWc8',
+      id: 'okB8l6RyODQV-dJYs-cSvGYWp6AA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'fSxMyenKTzGt-uDxjUJAEn6-k8Lnhc4pBFGBFg1_D_g',
+      useTemplateId: 'GRz60GZEO3Ndyt96mGGvyvHPb7rGhu-o4SYOcF8MPzA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-03',
       festivals: [
