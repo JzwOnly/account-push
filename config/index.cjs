@@ -25,7 +25,7 @@ const USER_CONFIG = {
     "openUrl": "https://s.weibo.com/top/summary?cate=realtimehot",
     "festivals": [{
       "type": "生日",
-      "name": "生日",
+      "name": "宝贝",
       "date": "03-03",
       "year": "2000"
     }, {
